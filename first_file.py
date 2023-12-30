@@ -1,2 +1,2 @@
 def hello(): #create a function that prints hello world
-    print("Hello World")
+    print("Hello World 2")
